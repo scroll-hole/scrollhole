@@ -25,7 +25,6 @@ Everything happens on your device. **Nothing leaves your phone.**
 Scrollhole has no servers, no accounts, no sign-in, no analytics, and no ads. Your
 usage data, app list, and budgets never leave the device and are deleted when you
 uninstall. Read the full policy: **[Privacy Policy](https://scroll-hole.github.io/scrollhole/)**
-*(replace with your GitHub Pages URL once live)*.
 
 ## Permissions, and why
 
